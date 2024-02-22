@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmo-2-C++", "Algoritmo-2-C++\Algoritmo-2-C++.vcxproj", "{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Debug|x64.ActiveCfg = Debug|x64
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Debug|x64.Build.0 = Debug|x64
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Debug|x86.ActiveCfg = Debug|Win32
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Debug|x86.Build.0 = Debug|Win32
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Release|x64.ActiveCfg = Release|x64
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Release|x64.Build.0 = Release|x64
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Release|x86.ActiveCfg = Release|Win32
+		{493A8D7B-D49F-4AD5-A5CA-0C6F48CC3143}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C4B946-767A-493F-96EB-34ED7C79985A}
+	EndGlobalSection
+EndGlobal
