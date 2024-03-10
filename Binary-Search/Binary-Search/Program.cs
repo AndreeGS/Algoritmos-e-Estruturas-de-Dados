@@ -12,7 +12,7 @@ class Program
         do
         {
 
-            Console.WriteLine("What do you want to do?");
+            Console.WriteLine("\nWhat do you want to do?");
             Console.WriteLine("1 - Insert values in to List");
             Console.WriteLine("2 - Order List");
             Console.WriteLine("3 - Search values");
@@ -28,7 +28,7 @@ class Program
                     Console.Write("How many values do you want to add? ");
                     select = int.Parse(Console.ReadLine());
 
-                    for (int i = 0; i < select; i++)
+                    for (int i = 1; i <= select; i++)
                     {
                         Console.WriteLine($"\nEnter the position value {i}: ");
                         int value = int.Parse(Console.ReadLine());
@@ -46,18 +46,28 @@ class Program
                     Console.WriteLine("\nWhat value do you want search?");
                     int valueToSearching = int.Parse(Console.ReadLine());
 
+                    list.Sort();
+
+                    Console.WriteLine("\nThe list was ordened...");
 
                     int index = list.BinarySearch(valueToSearching);
 
-                    Console.WriteLine($"\nValue found: {index}");
-                    
+                    if (index >= 0)
+                    {
+                        Console.WriteLine($"\nValue found at index: {index}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nValue not found in the list.");
+                    }
+
                     break;
                 case 4:
-                    Console.WriteLine("\nItens in list:");
+                    Console.WriteLine("\nItens in list: ");
 
                     foreach (int i in list)
                     {
-                        Console.WriteLine(i);
+                        Console.Write(i + "; ");
                     }
 
                     break;
@@ -67,7 +77,7 @@ class Program
             }
 
 
-        } while (select != 5);     
+        } while (select != 5);
 
     }
 }
