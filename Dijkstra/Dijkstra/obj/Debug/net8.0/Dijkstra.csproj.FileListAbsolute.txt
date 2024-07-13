@@ -1,0 +1,15 @@
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.exe
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.deps.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.runtimeconfig.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.pdb
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfo.cs
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.sourcelink.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\refint\Dijkstra.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.pdb
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.genruntimeconfig.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Dijkstra\Dijkstra\obj\Debug\net8.0\ref\Dijkstra.dll
