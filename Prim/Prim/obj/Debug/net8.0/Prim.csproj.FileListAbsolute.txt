@@ -1,0 +1,15 @@
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\bin\Debug\net8.0\Prim.exe
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\bin\Debug\net8.0\Prim.deps.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\bin\Debug\net8.0\Prim.runtimeconfig.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\bin\Debug\net8.0\Prim.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\bin\Debug\net8.0\Prim.pdb
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.AssemblyInfo.cs
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.sourcelink.json
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\refint\Prim.dll
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.pdb
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\Prim.genruntimeconfig.cache
+C:\Users\Andre\Documents\GitHub\Algoritmos-e-Estruturas-de-Dados\Prim\Prim\obj\Debug\net8.0\ref\Prim.dll
